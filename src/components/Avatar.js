@@ -56,9 +56,9 @@ class Avatar extends Component {
         <h1 class="tc">{this.state.name}</h1>
         {avatardata}
         {/* <Avatarlist id="1" name="Amir Mustafa" works="Web Developer" />
-      <Avatarlist id="2" name="Techsoft DK" works="Full stack" />
-      <Avatarlist id="3" name="Priyanka Yadav" works="JS Developer" />
-      <Avatarlist id="4" name="Atin Panday" works="Frontend Developer" /> */}
+        <Avatarlist id="2" name="Techsoft DK" works="Full stack" />
+        <Avatarlist id="3" name="Priyanka Yadav" works="JS Developer" />
+        <Avatarlist id="4" name="Atin Panday" works="Frontend Developer" /> */}
         <button onClick={() => this.nameChange()}>Subscribe</button>
       </div>
     );
