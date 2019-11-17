@@ -17,3 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ![Screenshot](https://user-images.githubusercontent.com/15896579/69008213-0a2d1280-096e-11ea-913f-961f2caf8812.png?raw=true "Screenshot of Passport jwt auth")
 
 ## Video
+
+For understanding
+https://www.loom.com/share/1becd2e8cb834992800f0c96e45cdf1c
